@@ -1,0 +1,21 @@
+
+.calendar-selected-date{
+    font-weight: bold;
+}
+
+.calendar{
+    width: 100%;
+}
+
+.calendar-day-name{
+    text-align: center;
+}
+
+.calendar-date{
+    cursor: pointer;
+    text-align: center;
+}
+
+.month-year-input{
+    text-align: center;
+}

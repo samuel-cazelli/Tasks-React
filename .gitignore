@@ -102,3 +102,15 @@ dist
 
 # TernJS port file
 .tern-port
+
+#database
+database.db
+
+
+#Visual Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
